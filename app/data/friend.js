@@ -5,7 +5,7 @@
 var friends = [
     {
         name: "Ahmed",
-        photo: "https://cdn.pixabay.com/photo/2018/07/20/22/43/adler-3551609_1280.jpg",
+        photo: "https://images.unsplash.com/photo-1534361505346-d0fadfd493b2?ixlib=rb-0.3.5&ixid=eyJhcHBfaWQiOjEyMDd9&s=e94b853ec1f081895f21345c3a55ef01&auto=format&fit=crop&w=334&q=80",
         scores:[
             5,
             1,
